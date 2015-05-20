@@ -19,11 +19,6 @@ var main = function(){
 				secondNum = Number($(this).val()); 
 				$("#display").val($(this).val())
 			}
-			/*value = $(this).val(); 
-			var oldVal = $("#display").val();
-
-			console.log(value);
-			$("#display").val(oldVal + value);*/
 		}
 		else if($(this).val() == "c"){
 			$("#display").val(" "); 
