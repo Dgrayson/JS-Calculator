@@ -5,3 +5,8 @@ TODO:
 
   - Style page with better CSS
   - Fix Number order bug
+  - Add more functions
+    - sqrt
+    - power
+    - e
+    - log
