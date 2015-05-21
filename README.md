@@ -10,3 +10,4 @@ TODO:
     - power
     - e
     - log
+  - allow use of multi digit numbers for second number
