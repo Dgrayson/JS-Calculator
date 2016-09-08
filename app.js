@@ -3,7 +3,6 @@ var tempVal, newVal;
 var isFirstNum = true; 
 var isMultiDigit = true;  
 var mathOps = ["+", "-", "*", "/", "=", "c"]; 
-var test; 
 
 var main = function(){
 
