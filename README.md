@@ -1,6 +1,8 @@
 # JS-Calculator
 A simple calculator written with javascript
 
+http://codepen.io/Dgrayson/pen/zKGgGw
+
 TODO: 
 
   - Style page with better CSS
